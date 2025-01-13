@@ -1,0 +1,13 @@
+{
+    "domain": "rikafirenet",
+    "name": "Rika Firenet",
+    "documentation": "",
+    "version": "0.0.2",
+    "dependencies": [],
+    "codeowners": [],
+    "config_flow": true,
+    "requirements": [
+      "bs4",
+      "requests"
+    ]
+  }
